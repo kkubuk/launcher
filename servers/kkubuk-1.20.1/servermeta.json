@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/USER/Desktop/code/launcher/Nebula/root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "웰컴투 꼬북리",
+    "description": "힐링 야생으로 어서오세요",
+    "icon": "https://cdn.discordapp.com/attachments/1284108804035969089/1387363474090233966/e0b4057d4230bf7b.png?ex=685dbb2c&is=685c69ac&hm=cc72211f9269033c6053e48ba62b8e6ee61b6ccf46597f56e7e92f58c5f5145d&",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
