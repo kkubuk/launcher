@@ -3,7 +3,7 @@
         "host": "kkubuk.p-e.kr",
         "port": 25565
     },
-    "rawDistributionUrl": "https://example.com/launcher/",
+    "rawDistributionUrl": ""https://kkubuk.github.io/launcher/"",
     "servers": [
         {
             "id": "kkubuk-pack",
